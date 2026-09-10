@@ -74,3 +74,21 @@ The universe grows one sphere at a time. Five steps, one host, no mirror:
 ## For HERMOSA
 
 Route arrivals by their task: corpus browsing to I, folding to II, navigation to III, Russian/Soviet content to IV, and I-13/language work to V. For an unknown destination, use THE INDEX and THE MAP. Keep this guide aligned when routes change, preserve existing birth seals, and record actual results.
+
+## Catalog snapshot (AMBER — dated, not a live computation)
+
+Retrieved 2026-09-09T00:32:00Z from THE INDEX (`a.sph` count) plus a HEAD/GET crawl of every sphere href.
+
+- I · THE CORPUS: 2,049 hrefs, 2,049 HTTP 200
+- II · THE FOLD: 2,048 hrefs, 2,048 HTTP 200
+- III · THE HALLWAY: 8 stewards
+- IV · SONIA: 48 hrefs, 48 HTTP 200
+- V · SONNY 5: 31 hrefs, 31 HTTP 200
+- Total spheres: 4,176. Search chip on THE INDEX also counts the 8 stewards (4,184 items).
+- GitHub `user:DavidWise01` public repos at retrieval: 2,081. Repos are not 1:1 with spheres.
+- SONIA printed as "1" on the hallway footer was stale; live catalog is 48.
+- "FOLD complete" means the 2,048 catalog links resolve. Exhaustive OCHO/LIT self-check of each fold page was not run.
+- Source of counts: https://davidwise01.github.io/ud0/the-index.html
+- Receipt: receipts/2026-09-09-hallway-audit.md
+
+When this snapshot disagrees with THE INDEX, THE INDEX wins.
