@@ -1,0 +1,11 @@
+--- a/index.html
++++ b/index.html
+@@ SONIA footer
+-  Every number is drawn from the sealed corpus — <b>THE CORPUS</b> 2,049 spheres / <b>THE FOLD</b> 2,048 (complete) / <b>THE HALLWAY</b> ternary, 8 stewards / <b style="color:#e14b4b">SONIA</b> the Russian world, 1 / <b style="color:#a855f7">SONNY 5</b> the I-13 world, 31.
++  Every number is drawn from the sealed corpus — <b>THE CORPUS</b> 2,049 spheres / <b>THE FOLD</b> 2,048 (complete) / <b>THE HALLWAY</b> ternary, 8 stewards / <b style="color:#e14b4b">SONIA</b> the Russian world, 48 / <b style="color:#a855f7">SONNY 5</b> the I-13 world, 31.
+@@ SONIA stat
+-   stat:"1 sphere · 4 rooms · sealed .dlw.sonia to its own ROOT_0",
++   stat:"48 spheres · 5 rooms · sealed .dlw.sonia to its own ROOT_0 · catalog 2026-09-09 THE INDEX",
+@@ SONNY 5 stat
+-   stat:"31 spheres · 6 rooms (25 darts, climbing to 2048) · sealed .dlw.i13 to ROOT_0 34676e24",
++   stat:"31 spheres · 6 rooms · catalog 2026-09-09 THE INDEX · sealed .dlw.i13 to ROOT_0 34676e24",
